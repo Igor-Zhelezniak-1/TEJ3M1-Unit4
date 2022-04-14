@@ -1,1 +1,39 @@
-<mxfile host="app.diagrams.net" modified="2022-04-14T14:34:16.947Z" agent="5.0 (X11; CrOS x86_64 14685.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.4992.0 Safari/537.36" version="17.4.4" etag="7hDDQ5hpZT5uzSsMWnO5" type="github"><diagram id="b7hSsZxCJZepWBSEdmJd">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-04-14T14:41:24.782Z" agent="5.0 (X11; CrOS x86_64 14685.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.4992.0 Safari/537.36" etag="t5JkeoOgu0JbaqfcJTYY" version="17.4.4" type="github">
+  <diagram id="b7hSsZxCJZepWBSEdmJd" name="Page-1">
+    <mxGraphModel dx="1185" dy="655" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="VFrqOL8Lgt8D83KkvLgt-1" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.opto_electronics.led_2;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="165" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="VFrqOL8Lgt8D83KkvLgt-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="1" source="VFrqOL8Lgt8D83KkvLgt-2" target="VFrqOL8Lgt8D83KkvLgt-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VFrqOL8Lgt8D83KkvLgt-6" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.57;entryDx=0;entryDy=0;entryPerimeter=0;labelBackgroundColor=default;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=none;endFill=0;strokeColor=default;" edge="1" parent="1" source="VFrqOL8Lgt8D83KkvLgt-2" target="VFrqOL8Lgt8D83KkvLgt-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="150" y="200" />
+              <mxPoint x="150" y="280" />
+              <mxPoint x="630" y="280" />
+              <mxPoint x="630" y="205" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VFrqOL8Lgt8D83KkvLgt-2" value="" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.miscellaneous.batteryStack;" vertex="1" parent="1">
+          <mxGeometry x="160" y="172.5" width="120" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="VFrqOL8Lgt8D83KkvLgt-5" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.57;entryDx=0;entryDy=0;entryPerimeter=0;labelBackgroundColor=default;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=none;endFill=0;strokeColor=default;" edge="1" parent="1" source="VFrqOL8Lgt8D83KkvLgt-3" target="VFrqOL8Lgt8D83KkvLgt-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="490" y="200" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VFrqOL8Lgt8D83KkvLgt-3" value="" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.resistors.resistor_2;" vertex="1" parent="1">
+          <mxGeometry x="320" y="190" width="120" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
